@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello
+=======
+yeah cool
+>>>>>>> feature/temp
